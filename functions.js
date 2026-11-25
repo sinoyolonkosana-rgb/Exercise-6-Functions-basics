@@ -10,8 +10,8 @@ function add(a, b) {
 	return a + b;
 }
 // TODO: Call both functions and store their results in variables
-var greeting = greet("Sinoyolo");
-var sum = add(2, 3);
+let greeting = greet("Sinoyolo");
+let sum = add(2, 3);
 // TODO: Print the results to the console
 console.log(greeting);
 console.log(sum);
